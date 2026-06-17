@@ -76,3 +76,7 @@ HKLM\SYSTEM\CurrentControlSet\Services\HtAntiCheatDriver
 本工具仅用于帮助玩家在自己的电脑上切换本地驱动启动状态。使用本工具造成的任何系统问题、游戏异常、账号风险或其他后果，均由使用者自行承担。
 
 如果你不确定是否应该运行脚本，请先不要使用，或请熟悉 Windows 注册表和系统服务的朋友帮忙确认。
+
+## 开源协议
+
+本项目基于 MIT License 开源，详见 [LICENSE](LICENSE)。
